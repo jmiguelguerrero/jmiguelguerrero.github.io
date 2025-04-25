@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            My untold journal
-tagline:          'A Jekyll theme'
-description:      'Registro en el que pretendo plasmar mis ideas sobre diseño de juegos y mis propias creaciones.'
+tagline:          'Exploring the past and future of game design.'
+description:      'A space where I explore game design ideas and showcase my personal creations.'
 url:              http://jmiguelguerrero.site
 baseurl:          /
 
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.0.1
+version:          0.0.2
 
 github:
   repo:           https://github.com/jmiguelguerrero/jmiguelguerrero.github.io
