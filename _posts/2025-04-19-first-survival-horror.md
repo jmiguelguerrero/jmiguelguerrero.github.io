@@ -3,10 +3,10 @@ layout: post
 title: First Survival Horror(?)
 ---
 
-![Cover]({{ site.baseurl }}public/images/nostromo.jpeg "Front cover of Nostromo for the NEC PC-6001")
+![Cover](/public/images/nostromo.jpeg "Front cover of Nostromo for the NEC PC-6001")
 
 <video controls width="100%">
-  <source src="{{ site.baseurl }}public/videos/nostromo.mp4" type="video/mp4">
+  <source src="/public/videos/nostromo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
